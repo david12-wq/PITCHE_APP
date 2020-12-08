@@ -11,7 +11,7 @@ This is an application that allows users to write something about themselves, su
 * [Python pip]
 * [Bootstrap]
 6. Google fonts
-7. HTML
+* [HTML]
 * [CSS]
 
 ## Features
