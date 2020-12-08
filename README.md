@@ -8,7 +8,7 @@ This is an application that allows users to write something about themselves, su
 * [Python 3.8.2]
 * [Git]]
 * [Flask]
-4. Python pip
+* [Python pip]
 5. Bootstrap
 6. Google fonts
 7. HTML
