@@ -2,7 +2,7 @@
 David Kamau
 
 ## Description
-This is an application that allows users to write something about themselves, submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them. A user will have to sign in to leave a comment and will receive a welcome email. Pitches are organized in categories and a user can submit and view any category(s)
+This is an application that allows users to write something about themselves, submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them. A user will have to sign in to leave a comment and will receive a welcome email. Pitches are organized in categories and a user can submit and view any category(s).
 
 ## Technologies Used
 1. Python 3.8.2
