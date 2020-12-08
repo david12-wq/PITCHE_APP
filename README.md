@@ -6,7 +6,7 @@ This is an application that allows users to write something about themselves, su
 
 ## Technologies Used
 1. Python 3.8.2
-2. Git
+2. [Git]]
 3. Flask
 4. Python pip
 5. Bootstrap
