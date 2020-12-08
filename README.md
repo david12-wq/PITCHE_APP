@@ -10,7 +10,7 @@ This is an application that allows users to write something about themselves, su
 * [Flask]
 * [Python pip]
 * [Bootstrap]
-6. Google fonts
+* [Google fonts]
 * [HTML]
 * [CSS]
 
