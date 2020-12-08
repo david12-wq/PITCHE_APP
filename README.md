@@ -9,7 +9,7 @@ This is an application that allows users to write something about themselves, su
 * [Git]]
 * [Flask]
 * [Python pip]
-5. Bootstrap
+* [Bootstrap]
 6. Google fonts
 7. HTML
 8. CSS
