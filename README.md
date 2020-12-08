@@ -12,7 +12,7 @@ This is an application that allows users to write something about themselves, su
 * [Bootstrap]
 6. Google fonts
 7. HTML
-8. CSS
+* [CSS]
 
 ## Features
 A user can:
